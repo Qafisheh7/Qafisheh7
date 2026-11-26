@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hammam Qafisheh
 
-<!--
-**Qafisheh7/Qafisheh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing manager based in Amman, Jordan, with 11+ years of experience in digital marketing.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Paid media** - LinkedIn and Meta campaigns, lead-generation funnels (Google Partner)
+- **Go-to-market** - new product launches, from positioning to campaign execution
+- **Brand & e-commerce** - brand building and online retail growth across Jordan and Saudi Arabia
+- **AI-powered marketing** - practical AI workflows for automation, analysis, review and content production
+
+## Featured project
+
+- [Marketing Metrics Calculator](https://github.com/Qafisheh7/marketing-calculator) - a free, open-source ROMI / MER / CAC / LTV calculator that runs entirely in the browser. [Try it live](https://qafisheh7.github.io/marketing-calculator/).
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/qafisheh](https://www.linkedin.com/in/qafisheh/)
