@@ -15,4 +15,4 @@ Marketing manager based in Amman, Jordan, with 11+ years of experience in digita
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/qafisheh](https://www.linkedin.com/in/qafisheh/)
+- LinkedIn: [linkedin.com/in/hammamqafisheh](https://www.linkedin.com/in/hammamqafisheh/)
